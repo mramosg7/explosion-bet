@@ -1,0 +1,9 @@
+.wallet{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 4px;
+    border-radius: 5px;
+    background-color: var(--wallet-color);
+}

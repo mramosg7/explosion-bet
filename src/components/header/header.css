@@ -1,0 +1,22 @@
+.header{
+    background-color: rgb(29, 29, 29);
+    height: 100%;
+    display: grid;
+    place-items: center;
+}
+.header .menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    height: 100%;
+    width: 100%;
+    max-width: 700px;
+}
+
+.header .menu .left{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
